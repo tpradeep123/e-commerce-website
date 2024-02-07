@@ -1,2 +1,18 @@
-# e-commerce-website
-e commerce website using MERN stack
+# screen_1
+![Screenshot (130)](https://github.com/tpradeep123/e-commerce-website/assets/115587521/59f16775-9e17-4606-bcbb-bd9792c6b8d0)
+# screen_2
+![Screenshot (131)](https://github.com/tpradeep123/e-commerce-website/assets/115587521/adf837e8-6fa6-4b08-a361-4e53a9df434e)
+# screen_3
+![Screenshot (132)](https://github.com/tpradeep123/e-commerce-website/assets/115587521/4e6d303d-08d5-4cb2-a35d-f48d3d3c2a00)
+# screen_4
+![Screenshot (133)](https://github.com/tpradeep123/e-commerce-website/assets/115587521/c620d582-b810-416e-b997-35549706bafe)
+# screen_5
+![Screenshot (134)](https://github.com/tpradeep123/e-commerce-website/assets/115587521/638507b1-2d3f-4d43-8962-0813ca315a89)
+# screen_6
+![Screenshot (135)](https://github.com/tpradeep123/e-commerce-website/assets/115587521/dd632ea1-478b-41f3-8c02-84f64bcc9e44)
+# screen_7
+![Screenshot (136)](https://github.com/tpradeep123/e-commerce-website/assets/115587521/e13f73e4-e134-474d-88e3-021b55c299ac)
+# screen_8
+![Screenshot (137)](https://github.com/tpradeep123/e-commerce-website/assets/115587521/0c814a51-35b1-46ee-bcd4-23875ca033dc)
+# screen_9
+![Screenshot (138)](https://github.com/tpradeep123/e-commerce-website/assets/115587521/76042a56-da3b-45c7-b5ff-27164c805320)
